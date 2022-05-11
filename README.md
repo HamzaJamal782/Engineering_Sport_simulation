@@ -8,10 +8,12 @@
  - ### Indicators:
  - 	Maximum ball height
  - 	Ball height at the goal plane arrival point
+--------------------------------------------------
 
-![image](https://user-images.githubusercontent.com/61354965/164357228-f75ac07d-924c-4bb6-a530-cbcd4e6c3daa.png)
+## - A simulation program with a graphical user interface making use of the ball hit speed as a control knob and the corresponding probability as an indicator.
+
+----------------------------------------------------
 
 
-## A simulation program with a graphical user interface making use of the ball hit speed as a control knob and the corresponding probability as an indicator.
+https://user-images.githubusercontent.com/61354965/167751670-47bbc9d7-0812-41cf-9bfc-e568032fb654.mp4
 
-![image](https://user-images.githubusercontent.com/61354965/164357306-0728bf55-b0ee-478c-bee4-89f23ef341eb.png)
